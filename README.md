@@ -6,3 +6,5 @@ operations on the image ‘lego1.png’, with the target to get the correct coun
 present in the image.
 ## Lab2
 Your script should read in two input images, call the lowpassfilter and highpassfilter functions, and construct the resultant hybrid image.
+## Lab3
+Practice some of the spatial filters.
